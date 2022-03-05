@@ -9,4 +9,10 @@ A pretty system information tool written in sh
 
 ## Installation
 
-Just copy julinefetch file in /bin or /usr/bin.
+Just copy julinefetch file in /bin or /usr/bin :
+
+```
+cd /bin && sudo wget https://raw.githubusercontent.com/juliiine/julinefetch/main/julinefetch
+```
+
+And adjust perms if so.
